@@ -1,0 +1,2 @@
+
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=C:\jesus_pereira\devel -DCMAKE_INSTALL_PREFIX=C:\jesus_pereira\install -G NMake Makefiles
